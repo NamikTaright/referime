@@ -5,7 +5,7 @@
 
 
 ```r
-devtools::install_git('http://164.1.196.52:8086/4073189/referime.git')
+devtools::install_github('https://github.com/NamikTaright/referime.git')
 ```
 
 # référentiels
